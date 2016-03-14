@@ -1,0 +1,78 @@
+ html, body,.all{
+	background-color:#FCEC22;
+    height: 100%; 
+}
+	
+	#h1{
+		
+		position: relative;
+		top: 10%;
+		left: 0;
+	}
+	#h2{
+		display: inline;
+		position: relative;
+		top: 0;
+		left: 380px;
+		}
+	#h3{
+		display: inline;
+		position: relative;
+		top: 0;
+		left: 410px;
+	}
+	#h4{
+		display: inline;
+		position: relative;
+		top: 0;
+		left: 440px;
+	}
+	#h5{
+		display: inline;
+		position: relative;
+		top: 0;
+		left: 470px;
+	}
+	#fish{
+		
+		position: relative;
+		top: 10%;
+		left: 280px;
+	}
+	#meat{
+		
+		position: relative;
+		top: 10%;
+		left: 280px;
+	}
+	#build1{
+		 
+		 position: relative;
+		 bottom: 0;
+		 height: 450px;
+		 width: 100%;
+	}
+	#but1{
+		 
+		 position: absolute;
+		 top: 15%;
+		 left: 80%;
+		 height: 30px;
+		 width: 100px;
+	}
+	#but2{
+		
+		 position: absolute;
+		 top: 23%;
+		 left: 80%;
+		 height: 30px;
+		 width: 100px;
+	}
+	#but3{
+		
+		 position: absolute;
+		 top: 31%;
+		 left: 80%;
+		 height: 30px;
+		 width: 100px;
+	}
