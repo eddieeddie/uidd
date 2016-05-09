@@ -1,0 +1,8 @@
+﻿{
+ "00_01_01":{"Content":"早安，請問是新生嗎？","Bg":"BG\/EEdoor.jpg","Character":"character\/yuzuko\/normal_01.png","CharacterName":"野野原ゆずこ","BGM":"BGM\/Spring Flowers.mp3","Sound":"sound\/yukari_ohayou.mp3","Effect":"","Next":{"Next1":{"ID":"00_02_01","Txt":"學姐早安"},"Next2":{"ID":"00_02_02","Txt":"(沉默不語)"}}}
+,"00_02_01":{"Content":"想去哪邊呢","Bg":"BG\/3.jpg","Character":"character\/yuzuko\/normal_01.png","CharacterName":"野野原ゆずこ","BGM":"BGM\/Spring Flowers.mp3","Sound":"NONE","Effect":"","Next":{"Next1":{"ID":"00_03_01","Txt":"想去廁所"}}}
+,"00_02_02":{"Content":"居然不理學姐，好難過！！","Bg":"BG\/3.jpg","Character":"character\/yuzuko\/sad_01.png","CharacterName":"野野原ゆずこ","BGM":"BGM\/Yokan.mp3","Sound":"NONE","Effect":"screenshake","Next":{"Next1":{"ID":"00_02_01","Txt":"學姐對不起！"}}}
+,"00_03_01":{"Content":"笨蛋嗎？廁所不在那邊...","Bg":"BG\/9.jpg","Character":"character\/yui\/angry_01.png","CharacterName":"櫟井唯","BGM":"BGM\/TekiPaki (Yui's Theme).mp3","Sound":"NONE","Effect":"","Next":{"Next1":{"ID":"00_04_01","Txt":"那個...學姐早安"}}}
+,"00_04_01":{"Content":"啊哈哈哈，記錯地方了 ","Bg":"BG\/9.jpg","Character":"character\/yuzuko\/normal_01.png","CharacterName":"野野原ゆずこ","BGM":"BGM\/TekiPaki (Yui's Theme).mp3","Sound":"NONE","Effect":"","Next":{"Next1":{"ID":"EXIT","Txt":"未完待續！"}}}
+
+}
