@@ -1,0 +1,15 @@
+.all {
+		position: absolute;
+		left: 700px;
+		top: 0;
+	}
+	#left_dia{
+				display: inline;
+				background-color:green;
+				left: 0;
+			}
+	#right_dia{
+				display: inline;
+				background-color:green;
+				right: 0;
+			}
